@@ -6,7 +6,7 @@ function upperCaseCustomerName() {
   customerName = customerName.toUpperCase();
 }
 function setBestCustomer() {
-  let bestCustomer = 'not bob';
+  bestCustomer = 'not bob';
 }
 function overwriteBestCustomer() {
   bestCustomer = 'maybe bob';
